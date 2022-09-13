@@ -2,11 +2,12 @@
 Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
 *	Theme Name: LLC Vanilla
-*	Theme Version: 1.0
+*	Theme Version: 1.1
 *	Theme Date: 2022-06-06
 *	Theme Author: JulianPrieber
 *	Theme Author URI: https://github.com/JulianPrieber
 *	Theme License: GPLv3
+*	Source code: https://github.com/YourGitHubName/ThemeName
 
 
 ### Used assets:
